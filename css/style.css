@@ -1,7 +1,13 @@
 body {
     margin: 0px;
     font-family: 'Inconsolata', monospace;
-    background: lavenderblush;
+    background: rgb(123, 161, 192);
+  }
+
+h2 {
+    color:slateblue;
+    margin: 0px;
+    font-family: 'Inconsolata', monospace;
   }
   
   .container {
